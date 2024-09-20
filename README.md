@@ -28,11 +28,11 @@ python 004_test.py
 ```
 
 ## 4. Evaluation
-```
+
 =======================
 FID score   : 24.4623
 =======================
-```  
+
 
 ## 6. Hardware
 The model architectures proposed in this study are implemented using the PyTorchDL framework, and training is conducted on hardware featuring an Intel® Core™ i7-12700 CPU and Nvidia RTX 3060 12GB graphics processing unit (GPU).
