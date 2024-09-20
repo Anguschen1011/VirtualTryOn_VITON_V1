@@ -1,8 +1,8 @@
 # 基於可組裝串聯外觀流之虛擬服裝試穿
 
 ## 2024 The Information Technology and Applications Conference (ITAC2024)
-Paper : [論文](docs/paper.pdf)  
-Certificate : [刊登證明](docs/論文刊登證明.pdf)  
+Paper : [Document](docs/paper.pdf)  
+Certificate : [Document](docs/論文刊登證明.pdf)  
 
 ## 1. Setting Data's Root 
 Get a .pkl file contain data's path 
