@@ -1,4 +1,4 @@
-# Virtual Try-On Using VITON Dataset
+# 基於可組裝串聯外觀流之虛擬服裝試穿
 
 ## 1. Setting Data's Root 
 Get a .pkl file contain data's path 
@@ -24,9 +24,7 @@ python 003_test.py
 
 ```
 =======================
-SSIM score  :  0.7907
-LPIPS score :  0.2130
-FID score   : 12.7824
+FID score   : 24.4623
 =======================
 ```  
 
