@@ -1,6 +1,6 @@
 # 基於可組裝串聯外觀流之虛擬服裝試穿
 
-## ITAC 2024
+## 2024 The Information Technology and Applications Conference (ITAC2024)
 Paper : [論文](docs/paper.pdf)  
 Certificate : [刊登證明](docs/論文刊登證明.pdf)  
 
