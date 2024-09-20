@@ -1,6 +1,7 @@
 # 基於可組裝串聯外觀流之虛擬服裝試穿
 
-## Award [查看 PDF 文件](./path/to/your/file.pdf)
+## Paper : [論文](docs/論文刊登證明.pdf)
+## Certificate : [刊登證明](docs/論文刊登證明.pdf)
 
 ## 1. Setting Data's Root 
 Get a .pkl file contain data's path 
