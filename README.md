@@ -1,5 +1,4 @@
-# Virtual Try-on Based on Composable Sequential Appearance Flow  
-# 基於可組裝串聯外觀流之虛擬服裝試穿
+# Virtual Try-on Based on Composable Sequential Appearance Flow<br>基於可組裝串聯外觀流之虛擬服裝試穿
 
 ## 2024 The Information Technology and Applications Conference (ITAC2024)
 Paper : [Document](docs/paper.pdf)  
