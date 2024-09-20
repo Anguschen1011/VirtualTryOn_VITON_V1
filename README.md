@@ -22,6 +22,7 @@ python 003_train_gen.py
 ```
 ## 3. Testing 
 Start testing
+[[Pretrained weights]](https://mega.nz/folder/bMcxjZba#2vixjwZc1KSuA7uMLOdyUg)
 ```
 python 004_test.py
 ```
