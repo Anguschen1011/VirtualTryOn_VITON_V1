@@ -18,7 +18,7 @@ Start training
 python 002_train_gmm.py
 ```
 ```
-003_train_gen.py
+python 003_train_gen.py
 ```
 ## 3. Testing 
 Start testing
