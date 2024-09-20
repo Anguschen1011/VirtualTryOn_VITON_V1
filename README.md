@@ -17,15 +17,16 @@ Start training
 ```
 python 002_train_gmm.py
 ```
-
+```
+003_train_gen.py
+```
 ## 3. Testing 
 Start testing
 ```
-python 003_test.py
+python 004_test.py
 ```
 
 ## 4. Evaluation
-
 ```
 =======================
 FID score   : 24.4623
