@@ -1,5 +1,7 @@
 # 基於可組裝串聯外觀流之虛擬服裝試穿
 
+## Award [查看 PDF 文件](./path/to/your/file.pdf)
+
 ## 1. Setting Data's Root 
 Get a .pkl file contain data's path 
 ```
